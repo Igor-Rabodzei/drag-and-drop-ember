@@ -138,7 +138,7 @@ export default Component.extend({
    if (this.get('isSortable')) {
      this.get('dragCoordinator').draggingOver(event, this);
    }
-    return false;
+    return true;
   },
 
   dragStartHook(event) {
