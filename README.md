@@ -1,7 +1,6 @@
-# Ember Drag Drop
+# Drag And Drop Ember
 
-[![Build Status](https://travis-ci.org/mharris717/ember-drag-drop.svg?branch=master)](https://travis-ci.org/mharris717/ember-drag-drop)
-[![Download Total](https://img.shields.io/npm/dt/ember-drag-drop.svg)](http://badge.fury.io/js/ember-drag-drop)
+Based on [ember-drag-drop](https://github.com/mharris717/ember-drag-drop) with my improvements
 
 Simple drag and drop addon for your Ember CLI app.
 
@@ -21,7 +20,7 @@ When using this addon, you get to work with objects in your domain layer, just l
 ## Installation
 
 ```
-ember install ember-drag-drop
+ember install drag-and-drop-ember
 ```
 
 ## Thanks
