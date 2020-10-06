@@ -4,7 +4,7 @@ Based on [ember-drag-drop](https://github.com/mharris717/ember-drag-drop) with m
 
 Simple drag and drop addon for your Ember CLI app.
 
-[Link to npm](https://www.npmjs.com/package/drag-and-drop-ember)
+[Link to npm](https://www.npmjs.com/package/is-disposable-email-domain)
 
 The goal is to allow you to add drag and drop to your app without having to become an expert in the browser's low level D&D API.
 
